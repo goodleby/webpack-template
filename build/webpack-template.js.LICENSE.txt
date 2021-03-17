@@ -1,0 +1,1 @@
+/*! @link https://github.com/goodleby/webpack-template#readme, @version 1.0.0, @licence MIT */
